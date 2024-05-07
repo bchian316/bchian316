@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 i made a factorial calculator!
 
-# Online Python - IDE, Editor, Compiler, Interpreter
 def factorial(x):
     value = 1
     for i in range(x):
